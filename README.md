@@ -1,5 +1,5 @@
 # AdvancedAnalyticsLabs
-Analytics labs notebooks, supporting teaching of analytics to BSc and MSc students. Currently, there are currently 9 labs (out of 12) divided into three topics:
+Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 9 labs (out of 12) uploaded divided into three topics:
 
 ## Intro to Python and Revenue Management
 
