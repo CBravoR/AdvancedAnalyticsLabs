@@ -11,7 +11,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc business
 
 3. [Data Preprocessing](Lab_3_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
 
-4. [Weight of evidence transformation](Lab_4_WoE.ipynb): How to calculate Weight of Evidence transformations in Python.
+4. [Weight of evidence transformation](Lab_4_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
 
 5. [Logistic Regression](Lab_5_Logistic_Regression.ipynb): Intro to scikit-learn and how to run a Lasso and Ridge regression.
 
