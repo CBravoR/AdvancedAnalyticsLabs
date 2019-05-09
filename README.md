@@ -1,5 +1,5 @@
 # AdvancedAnalyticsLabs
-Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 10 labs (out of 12) uploaded divided into three topics:
+Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 11 labs (out of 12) uploaded divided into four topics:
 
 ## Intro to Python and Revenue Management
 
@@ -26,6 +26,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc business
 9. [1D CNN and Keras' Model API](Lab_9_ConvNets_for_Text_Analytics.ipynb): Intro to CNN, and how to use Keras' Model API. Also contains an implementation of [Kim et al. (2014)](https://arxiv.org/abs/1408.5882) CNN for text analytics.
 
 10. [2D CNN and Gradient Backtracing](Lab_10_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), training of own models and separable convolutions, and gradient backtracing to visualize what is being used to discriminate.
+
+## Data Management and a Primer on Visualization
+
+11. [SQL Refresher](Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
