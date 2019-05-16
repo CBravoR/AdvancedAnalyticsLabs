@@ -1,5 +1,5 @@
 # AdvancedAnalyticsLabs
-Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 11 labs (out of 12) uploaded divided into four topics:
+Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 12 labs  uploaded divided into four topics:
 
 ## Intro to Python and Revenue Management
 
@@ -30,6 +30,8 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc business
 ## Data Management and a Primer on Visualization
 
 11. [SQL Refresher](Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+
+12. [Primer on Visualization](Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
