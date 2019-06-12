@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
+title: Analytics Labs
+description: Jupyter notebooks with Credit Scoring and Deep Learning code oriented for business school students
