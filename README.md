@@ -1,11 +1,13 @@
 # AdvancedAnalyticsLabs
 Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 12 labs  uploaded divided into four topics:
 
-## Intro to Python and Revenue Management
+## Intro to Python
 
 1. [Introduction to Python](notebooks/python/Lab_1_Introduction_to_Python.ipynb): First few steps. Simple intro for people who might be already familiar with other languages, not meant for people with no programming experience!
 
-2. [Revenue Management](notebooks/python/Lab_2_Revenue_Management.ipynb): Implementation of simple algorithms (Littlewood, EMSR-a and EMSR-b). Also teaches about functions, assignments, etc.
+2.a. [Revenue Management](notebooks/python/Lab_2_Revenue_Management.ipynb): Implementation of simple algorithms (Littlewood, EMSR-a and EMSR-b). Also teaches about functions, assignments, etc. Taught until 2019 in Southampton University as part of Advanced Analytics course.
+
+2.b. [Bond Pricing](notebooks/python/Lab_2_Bond_Pricing.ipynb): Same as above, but now applies functions, assignments, etc. to the problem of bond pricing, teaching about yields and clean/dirty prices at the same time. Taught from 2019 at Western University, as part of the [Banking Analytics](https://www.uwo.ca/stats/graduate/course-outlines/FM-9528-course-outline-20193.pdf) course.
 
 ## Credit Scoring
 
