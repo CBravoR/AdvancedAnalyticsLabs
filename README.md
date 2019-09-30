@@ -1,5 +1,5 @@
 # AdvancedAnalyticsLabs
-Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 13 labs uploaded divided into five topics:
+Analytics labs notebooks, supporting analytics teaching for BSc and MSc business school modules. Currently, there are 14 labs uploaded divided into five topics:
 
 ## Intro to Python
 
@@ -33,11 +33,13 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc business
 
 11. [2D CNN and Gradient Backtracing](notebooks/python/Lab_10_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), training of own models and separable convolutions, and gradient backtracing to visualize what is being used to discriminate.
 
+12. [Multimodal Learning](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto (video recording to follow). Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
+
 ## Data Management and a Primer on Visualization
 
-12. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+13. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-13. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+14. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
