@@ -15,7 +15,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Credit Scoring
 
-4. [Data Preprocessing](notebooks/python/Lab_3_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
+4. [Data Preprocessing](notebooks/python/Lab_4_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
 
 5. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
 
