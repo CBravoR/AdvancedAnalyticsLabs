@@ -9,19 +9,19 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Banking Regulation
 
-3. [Bond Pricing](notebooks/python/Lab_2_Bond_Pricing.ipynb): Teaches bond pricing, yields and clean/dirty prices. Taught from 2019 at Western University, as part of the [Banking Analytics](https://www.uwo.ca/stats/graduate/course-outlines/FM-9528-course-outline-20193.pdf) course I created. Replaces Revenue Management lab above, and also covers function creation and an introduction to PyPlot.
+3. [Basel Capital Requirements](notebooks/python/Lab_2_Capital_Requirements_and_Pandas.ipynb): Covers Lambda functions and an introduction to Pandas in the context of the [Basel capital requirements formulas](https://www.bis.org/bcbs/irbriskweight.pdf).
 
-4. [Basel Capital Requirements](notebooks/python/Lab_3_Capital_Requirements_and_Pandas.ipynb): Covers Lambda functions and an introduction to Pandas in the context of the [Basel capital requirements formulas](https://www.bis.org/bcbs/irbriskweight.pdf).
+4. [Bond Pricing](notebooks/python/Lab_3_Bond_Pricing.ipynb): Teaches bond pricing, yields and clean/dirty prices. Taught from 2019 at Western University, as part of the [Banking Analytics](https://www.uwo.ca/stats/graduate/course-outlines/FM-9528-course-outline-20193.pdf) course I created. Replaces Revenue Management lab above, and also covers function creation and an introduction to PyPlot.
 
 ## Credit Scoring
 
 4. [Data Preprocessing](notebooks/python/Lab_3_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
 
-5. [Weight of evidence transformation](notebooks/python/Lab_4_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
+5. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
 
-6. [Logistic Regression and Scorecards](notebooks/python/Lab_5_Logistic_Regression.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculatea scorecard.
+6. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculatea scorecard.
 
-7. [Random Forest and XGBoosting](notebooks/python/Lab_6_Scorecards_and_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, and compare ROC curves.
+7. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, and compare ROC curves.
 
 8. [PD / LGD Calibration](notebooks/python/Extra_Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
 
