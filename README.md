@@ -33,7 +33,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 12. [1D CNN and Keras' Model API](notebooks/python/Lab_9_ConvNets_for_Text_Analytics.ipynb): Intro to CNN, and how to use Keras' Model API. Also contains an implementation of [Kim et al. (2014)](https://arxiv.org/abs/1408.5882) CNN for text analytics. Updated to Tensorflow 2.0.
 
-12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_10_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), training of own models and separable convolutions, and gradient backtracing to visualize what is being used to discriminate.
+12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate.
 
 13. [Multimodal Learning](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto (video recording to follow). Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
 
