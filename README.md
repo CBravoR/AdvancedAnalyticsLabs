@@ -11,7 +11,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 3. [Basel Capital Requirements](notebooks/python/Lab_2_Capital_Requirements_and_Pandas.ipynb): Covers Lambda functions and an introduction to Pandas in the context of the [Basel capital requirements formulas](https://www.bis.org/bcbs/irbriskweight.pdf).
 
-4. [Bond Pricing](notebooks/python/Lab_3_Bond_Pricing.ipynb): Teaches bond pricing, yields and clean/dirty prices. Taught from 2019 at Western University, as part of the [Banking Analytics](https://www.uwo.ca/stats/graduate/course-outlines/FM-9528-course-outline-20193.pdf) course I created. Replaces Revenue Management lab above, and also covers function creation and an introduction to PyPlot.
+4. [Bond Pricing](notebooks/python/Lab_3_Bond_Pricing.ipynb): Teaches bond pricing, yields and clean/dirty prices. Taught from 2019 at Western University, as part of the [Banking Analytics](https://www.uwo.ca/stats/graduate/course-outlines/2021-22/FM9528A-2021.pdf) course I created. Replaces Revenue Management lab above, and also covers function creation and an introduction to PyPlot.
 
 ## Credit Scoring
 
