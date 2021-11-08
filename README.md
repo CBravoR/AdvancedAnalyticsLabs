@@ -21,7 +21,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 6. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculatea scorecard.
 
-7. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, and compare ROC curves.
+7. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves.
 
 8. [PD / LGD Calibration](notebooks/python/Extra_Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
 
