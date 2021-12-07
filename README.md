@@ -35,7 +35,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate.
 
-13. [Multimodal learning (a)](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining 
+13. [Multimodal learning (a)](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
 
 14. [Multimodal Learning (b)](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto (video recording to follow). Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
 
