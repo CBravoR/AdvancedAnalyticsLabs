@@ -37,13 +37,15 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 13. [Multimodal learning (a)](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
 
-14. [Multimodal Learning (b)](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto (video recording to follow). Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
+14. [Multimodal Learning (b)](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto. Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
 
-## Data Management and a Primer on Visualization
+## Other labs
 
 14. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
 15. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+
+16. [Explainability and Confounding](Lab_11_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
