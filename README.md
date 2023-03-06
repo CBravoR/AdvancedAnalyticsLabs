@@ -19,7 +19,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 6. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
 
-7. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculatea scorecard.
+7. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculate a scorecard.
 
 8. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves.
 
