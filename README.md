@@ -17,11 +17,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 5. [Data Preprocessing](notebooks/python/Lab_4_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
 
-6. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie.
+6. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses my own fork of the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie, with some bugs fixed and other personalizations.
 
 7. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculate a scorecard.
 
-8. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves.
+8. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles_and_Error_Measures.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves.
 
 9. [PD / LGD Calibration](notebooks/python/Extra_Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
 
