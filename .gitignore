@@ -133,3 +133,7 @@ shell/jina-wizard.sh
 # IntelliJ IDEA
 *.iml
 .idea
+
+# Data files to ignore
+notebooks/python/sigma_pdm.npy
+notebooks/python/*tmp
