@@ -30,17 +30,17 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Deep Learning
 
-11. [Introduction to Keras and Shallow ANN](notebooks/python/Lab_8_Keras_and_Shallow_Neural_Networks.ipynb): Gentle introduction to Keras and Tensorflow. Updated to Tensorflow 2.0.
+11. [Introduction to Keras, Pytorch, and Shallow ANN](notebooks/python/Lab_8_Keras_and_Shallow_Neural_Networks.ipynb): Gentle introduction to Keras and Pytorch.
 
-12. [Embeddings](notebooks/python/Lab_8_Embeddings.ipynb): How to calculate embedding layers, and how to use pre-trained embeddings. Currently uses Facebook's [fasttext library](https://fasttext.cc/). Updated to Tensorflow 2.0.
+12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate in Pytorch.
 
-13. [1D CNN and Keras' Model API](notebooks/python/Lab_9_ConvNets_for_Text_Analytics.ipynb): Intro to CNN, and how to use Keras' Model API. Also contains an implementation of [Kim et al. (2014)](https://arxiv.org/abs/1408.5882) CNN for text analytics. Updated to Tensorflow 2.0.
+13. [Multimodal learning](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
 
-14. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate.
+14. [Recurrent Networks](notebooks/python/Lab_Recurrent_Networks): LSTM and GRU in Pytorch.
 
-15. [Multimodal learning (a)](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
+15. [Transformers](notebooks/python/Lab_Text_Analytics_Transformers): The Transformer applied using Huggingface's packages.
 
-16. [Multimodal Learning (b)](notebooks/python/Airlines.ipynb): Example shown at the 2019 [Machine Learning Bootcamp](http://www.fields.utoronto.ca/activities/19-20/bootcamp_ML_F) at the University of Toronto. Mixed content from all other labs applied to sentiment analysis. Shows how to use categorical embeddings, text embeddings, and traditional structured data to improve evaluations.
+16. [LLM API](notebooks/python/Lab_LLM_OpenAI): Using OpenAI's LLM libraries and examples.
 
 ## Other labs
 
