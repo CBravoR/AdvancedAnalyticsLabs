@@ -25,7 +25,7 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 9. [LGD Modelling](notebooks/python/Lab_LGD_Modelling.ipynb): How to model LGD using either a GLM or an XGB model.
 
-10. [PD / LGD Calibration](notebooks/python/Extra_Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
+10. [PD / LGD Calibration](notebooks/python/Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
 
 
 ## Deep Learning
@@ -34,15 +34,21 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate in Pytorch.
 
-13. [Multimodal learning (a)](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
+13. [Multimodal learning](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
+
+14. [Recurrent Networks](notebooks/python/Lab_Recurrent_Networks): LSTM and GRU in Pytorch.
+
+15. [Transformers](notebooks/python/Lab_Text_Analytics_Transformers): The Transformer applied using Huggingface's packages.
+
+16. [LLM API](notebooks/python/Lab_LLM_OpenAI): Using OpenAI's LLM libraries and examples.
 
 ## Other labs
 
-14. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+17. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-15. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+18. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
-16. [Explainability and Confounding](Lab_11_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
+19. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
