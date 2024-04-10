@@ -36,11 +36,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 13. [Multimodal learning](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
 
-14. [Recurrent Networks](notebooks/python/Lab_Recurrent_Networks): LSTM and GRU in Pytorch.
+14. [Recurrent Networks](notebooks/python/Lab_Recurrent_Networks.ipynb): LSTM and GRU in Pytorch.
 
-15. [Transformers](notebooks/python/Lab_Text_Analytics_Transformers): The Transformer applied using Huggingface's packages.
+15. [Transformers](notebooks/python/Lab_Text_Analytics_Transformers.ipynb): The Transformer applied using Huggingface's packages.
 
-16. [LLM API](notebooks/python/Lab_LLM_OpenAI): Using OpenAI's LLM libraries and examples.
+16. [LLM API](notebooks/python/Lab_LLM_OpenAI.ipynb): Using OpenAI's LLM libraries and examples.
 
 ## Other labs
 
