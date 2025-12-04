@@ -15,32 +15,22 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Credit Risk Modelling
 
-5. [Data Preprocessing](notebooks/python/Lab_4_Preprocessing.ipynb): Simple data preprocessing using pandas and scikit-learn.
+5. [Data Preprocessing](notebooks/python/Lab_4_Preprocessing.ipynb): Simple data preprocessing using polars and scikit-learn.
 
-6. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses my own fork of the excellent [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie, with some bugs fixed and other personalizations.
+6. [Weight of evidence transformation](notebooks/python/Lab_5_WoE.ipynb): How to calculate Weight of Evidence transformations in Python. Uses my own fork of the [scorecardpy](https://github.com/ShichenXie/scorecardpy) package by @ShichenXie, with some bugs fixed and other personalizations.
 
-7. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculate a scorecard.
+7. [Logistic Regression and Scorecards](notebooks/python/Lab_6_Logistic_Regression_and_Scorecards.ipynb): Intro to scikit-learn, how to run a Lasso and Ridge regression, and how to calculate a scorecard. It includes larger-than-memory training using SGD.
 
-8. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles_and_Error_Measures.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves.
+8. [Random Forest and XGBoosting](notebooks/python/Lab_7_Ensembles_and_Error_Measures.ipynb): How to run a Random Forest, an XGBoost model, tune parameters over a grid, use Shapley values to explain predictions, and compare ROC curves. It also includes larger-than-memory training.
 
 9. [LGD Modelling](notebooks/python/Lab_LGD_Modelling.ipynb): How to model LGD using either a GLM or an XGB model.
 
-10. [PD / LGD Calibration](notebooks/python/Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors.
+10. [PD / LGD Calibration](notebooks/python/Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors using the Vasicek model.
 
 
-## Deep Learning
+## Deep Learning 
 
-11. [Introduction to Keras, Pytorch, and Shallow ANN](notebooks/python/Lab_8_Keras_and_Shallow_Neural_Networks.ipynb): Gentle introduction to Keras and Pytorch.
-
-12. [2D CNN and Gradient Backtracing](notebooks/python/Lab_2D_Convolutions.ipynb): 2D Convolutions for image classification. Use of pre-trained models (VGG16), and gradient backtracing to visualize what is being used to discriminate in Pytorch.
-
-13. [Multimodal learning](notebooks/python/Multimodal_Learning_House_Prices.ipynb): Regression example using ResNet50v2 and the Keras' Model API. Current multimodal example I use in my lectures combining categorical data and image data.
-
-14. [Recurrent Networks](notebooks/python/Lab_Recurrent_Models.ipynb): LSTM and GRU in Pytorch.
-
-15. [Transformers](notebooks/python/Lab_Text_Analytics_Transformers.ipynb): The Transformer applied using Huggingface's packages.
-
-16. [LLM API](notebooks/python/Lab_LLM_OpenAI.ipynb): Using OpenAI's LLM libraries and examples.
+**[See our new book's](https://www.bankingbook.ml/labs) for the most up-to-date versions of these labs**. They are also available in the [book's GitHub](https://github.com/Banking-Analytics-Lab/DLinBankingBook). 
 
 ## Other labs
 
