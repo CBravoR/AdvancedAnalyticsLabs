@@ -34,11 +34,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Other labs
 
-17. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+11. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-18. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+12. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
-19. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
+13. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
