@@ -1,5 +1,5 @@
 # AdvancedAnalyticsLabs
-Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses. I've taught these at a business school and a statistics department, so I think they fit both reasonably well. Currently, there are 19 labs uploaded divided into five topics:
+Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses. I've taught these at a business school and a statistics department, so I think they fit both reasonably well. Currently, there are 20 labs uploaded divided into five topics:
 
 ## Intro to Python
 
@@ -27,6 +27,8 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 10. [PD / LGD Calibration](notebooks/python/Lab_PD_Calibration.ipynb): How to define ratings by segmenting the AUC curve and calibrate a long-run PD / downturn LGD adjusted by macroeconomic factors using the Vasicek model.
 
+11. [Model Validation](notebooks/python/Lab_Model_Validation.ipynb): Out-of-time validation of the PD and LGD models from the previous labs. Level 0 stability (SSI, Jensen-Shannon, Herfindahl, adversarial validation), Level 1 discrimination (DeLong AUC tests, SHAP sign check), Level 2 calibration (binomial, Jeffreys, Hosmer-Lemeshow, normal, Vasicek, Brier decomposition, Spiegelhalter), the traffic-light dashboard and action scheme, LGD backtests (t, Wilcoxon, F, Ansari-Bradley, Loterman bootstrap, gAUC, loss shortfall, MAD) and benchmarking (Spearman, Kendall, gamma, champion-challenger).
+
 
 ## Deep Learning 
 
@@ -34,11 +36,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Other labs
 
-11. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+12. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-12. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+13. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
-13. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
+14. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
