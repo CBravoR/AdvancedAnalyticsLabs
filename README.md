@@ -33,6 +33,8 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 13. [Stress Testing](notebooks/python/Lab_Stress_Testing.ipynb): The bank's own stress tests on a simulated credit portfolio, in the order of the lecture. Sensitivity tests at Level 0, 1 and 2 and the Basel-formula stress at Z = -1.75; macroeconomic scenarios through the Vasicek systematic factor with a satellite regression on GDP and unemployment; the Pillar 1 capital path; migration matrices under stress with the Z-shift; IFRS 9 lifetime PD under a scenario path, the probability-weighted ECL and the convexity gap against a Monte Carlo benchmark; SICR staging with the EBA threefold trigger, the threshold matrix and the cliff-effect curve; and a reverse stress test that returns the Z and the GDP path that use up the buffer, double the provisions, or breach the minimum.
 
+14. [Prompt Engineering with an Open-Weight LLM](notebooks/python/Lab_Prompt_Engineering.ipynb): Prompting Gemma 4 E2B-it (open weights, Apache 2.0, runs on the free Colab GPU) with Hugging Face transformers. Roles and the chat template, decoding parameters (temperature, top-p, repetition penalty, seed), structured instructions, and a banking use case where the LLM turns the SHAP values of an XGBoost delinquency model into a reason statement.
+
 
 ## Deep Learning 
 
@@ -40,11 +42,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Other labs
 
-14. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+15. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-15. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+16. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
-16. [Explainability and Confounding](notebooks/python/Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
+17. [Explainability and Confounding](notebooks/python/Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
