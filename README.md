@@ -29,6 +29,10 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 11. [Model Validation](notebooks/python/Lab_Model_Validation.ipynb): Out-of-time validation of the PD and LGD models from the previous labs. Level 0 stability (SSI, Jensen-Shannon, Herfindahl, adversarial validation), Level 1 discrimination (DeLong AUC tests, SHAP sign check), Level 2 calibration (binomial, Jeffreys, Hosmer-Lemeshow, normal, Vasicek, Brier decomposition, Spiegelhalter), the traffic-light dashboard and action scheme, LGD backtests (t, Wilcoxon, F, Ansari-Bradley, Loterman bootstrap, gAUC, loss shortfall, MAD) and benchmarking (Spearman, Kendall, gamma, champion-challenger).
 
+12. [Fairness in Credit Scoring](notebooks/python/Lab_Fairness_Credit_Scoring.ipynb): Fairness audit of a credit scoring model with Fairlearn. Independence, separation and sufficiency by group (selection rates, equalized odds, precision and calibration by group, ROC curves with the feasible region), confounding through the credit score, bootstrap, permutation and Wald tests with traffic lights, post-processing with ThresholdOptimizer, the impossibility theorem in the data, and a D-hacking demonstration. Part A is adapted from the Chapter 8 lab of *Deep Learning in Banking* (Bravo, Maldonado and Óskarsdóttir, 2025), written by María Óskarsdóttir.
+
+13. [Stress Testing](notebooks/python/Lab_Stress_Testing.ipynb): The bank's own stress tests on a simulated credit portfolio, in the order of the lecture. Sensitivity tests at Level 0, 1 and 2 and the Basel-formula stress at Z = -1.75; macroeconomic scenarios through the Vasicek systematic factor with a satellite regression on GDP and unemployment; the Pillar 1 capital path; migration matrices under stress with the Z-shift; IFRS 9 lifetime PD under a scenario path, the probability-weighted ECL and the convexity gap against a Monte Carlo benchmark; SICR staging with the EBA threefold trigger, the threshold matrix and the cliff-effect curve; and a reverse stress test that returns the Z and the GDP path that use up the buffer, double the provisions, or breach the minimum.
+
 
 ## Deep Learning 
 
@@ -36,11 +40,11 @@ Analytics labs notebooks, supporting analytics teaching for BSc and MSc courses.
 
 ## Other labs
 
-12. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
+14. [SQL Refresher](notebooks/python/Lab_11_SQL_Connections.ipynb): Refresher on SQL, how to access it from Python, and a very light introduction to [SQLAlchemy](https://www.sqlalchemy.org/).
 
-13. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
+15. [Primer on Visualization](notebooks/python/Lab_12_Visualization_Primer.ipynb): A few plots using pyplot, seaborn and plotly. Very introductory primer.
 
-14. [Explainability and Confounding](Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
+16. [Explainability and Confounding](notebooks/python/Lab_Explainability_and_SHAP.ipynb): How to use the Shap package to explain XGB models and a couple of confounding factors examples. Taught as part of the DS3000 - Intro to Machine Learning course at Western.
 
 These labs are available under the GPL v3, feel free to use them as you wish. I'll be grateful if you can point to the Github, as I'll keep these updated in subsequent iterations of the modules where I teach this. As always, these notebooks are provided with no guarantees.
 
